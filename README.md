@@ -1,4 +1,4 @@
-👋 Hi, I’m @programmer-badi
+👋 Hi, I’m @developer.badi
 
 👀 Interests
 - Full-stack web development
