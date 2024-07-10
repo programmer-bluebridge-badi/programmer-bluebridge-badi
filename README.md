@@ -23,9 +23,9 @@
 - Community-driven coding tutorials and workshops
 
 📫 How to Reach Me
-- GitHub: [@programmer-bluebridge-badi](https://github.com/programmer-bluebridge-badi)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- GitHub: [@developer.badi](https://github.com/programmer-bluebridge-badi)
+- Email: developer.badi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/badi-salum-7402621b7/
 
 😄 Pronouns
 - He/Him
