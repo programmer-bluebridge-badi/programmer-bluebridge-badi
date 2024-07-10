@@ -25,7 +25,7 @@
 📫 How to Reach Me
 - GitHub: [@developer.badi](https://github.com/programmer-bluebridge-badi)
 - Email: developer.badi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/badi-salum-7402621b7/
+- LinkedIn:  [@badisalum](https://www.linkedin.com/in/badi-salum-7402621b7)
 
 😄 Pronouns
 - He/Him
